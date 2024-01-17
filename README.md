@@ -1,1 +1,1 @@
---> https://github.com/sk-zk/map-docs/wiki/Map-format
+--> https://github.com/sk-zk/map-docs/wiki
